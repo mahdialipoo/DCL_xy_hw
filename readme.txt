@@ -7,4 +7,4 @@ All controllers are discrete by the backward discretization method.
 In this way, the iddar controller may become unstable, but instability does not become stability.
 The dead zone effect is applied by the section specified in the code. This phenomenon did not exist in the simulation. If the wheel speed is less than 0.1 m / s, the engines will enter the dead zone and the speed will be zero.
 
-
+https://github.com/mahdialipoo/DCL_xy_hw
